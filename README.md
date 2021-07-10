@@ -8,8 +8,8 @@
 <p>I am currently participating in the development of a robot for the ICMC-USP museum, as part of a faculty project, the first prototype is ready now we will move on to make two.
 <div contatos>
   <p>How to reach me:
-  <p><a href="1819976@aluno.uniovesp.br">E-mail: UNIVESP</a> 
-  <p><a href="engenharia.computacao4.0@gmail.com">E-mail: Engenharia</a>
+  <p>e-mail: 1819976@aluno.uniovesp.br 
+  <p>e-mail: engenharia.computacao4.0@gmail.com
   <figure>
     <h3>Linkedin</h3>
     <img src="my_linkedin.png" alt="QR-Code para meu linkedin">
