@@ -11,7 +11,7 @@
   <p>e-mail: 1819976@aluno.uniovesp.br 
   <p>e-mail: engenharia.computacao4.0@gmail.com
   <figure>
-    <h3>Linkedin</h3>
+    <h3 style="color: red;background-color:green;">Linkedin</h3>
     <img src="my_linkedin.png" alt="QR-Code para meu linkedin">
   </figure>
 </div>
