@@ -4,7 +4,7 @@
  
 
 ⚠️AVISO EM CONSTRUÇÃO⚙️
-<h4>👋 Hi, I’m <strong>@Fábio D. Sinobre<strong>😊
+<h4>👋 Hi, I’m <strong>@Fábio D. Sinobre<strong>😊</h4>
 <hr>
 <p>I’m currently studyng at UNIVESP, the fourth public university in the state of São Paulo - Brasi, in the course of computer enginnering. In parallel java language technologies
 
