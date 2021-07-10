@@ -6,7 +6,9 @@
 <!--Atualmente participo do desenvolvimento de um robo para o museu do ICMC-USP, dentro de um projeto da faculdade, o primeiro prototipo esta pronto agora iremos passar para faze dois -->
 
 <p>I am currently participating in the development of a robot for the ICMC-USP museum, as part of a faculty project, the first prototype is ready now we will move on to make two.
-<p>📫 How to reach me ...
+<p>How to reach me:
+<p><a href="1819976@aluno.uniovesp.br">E-mail: UNIVESP</a> 
+<p><a href="engenharia.computacao4.0@gmail.com">E-mail: Engenharia</a>
 <p>
 
 <!---
