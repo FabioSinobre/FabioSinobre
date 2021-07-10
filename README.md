@@ -1,3 +1,8 @@
+<head>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</heard>
+ 
+
 ⚠️AVISO EM CONSTRUÇÃO⚙️
 <h4>👋 Hi, I’m <strong>@Fábio D. Sinobre<strong>😊
 <hr>
