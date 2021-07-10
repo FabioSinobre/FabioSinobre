@@ -1,5 +1,5 @@
 ⚠️AVISO EM CONSTRUÇÃO⚙️
-<h4>👋 Hi, I’m <strong>@Fabio D. Sinobre<strong>😊
+<h4>👋 Hi, I’m <strong>@Fábio D. Sinobre<strong>😊
 <hr>
 <p>I’m currently studyng at UNIVESP, the fourth public university in the state of São Paulo - Brasi, in the course of computer enginnering. In parallel java language technologies
 
@@ -12,7 +12,7 @@
   <p><a href="engenharia.computacao4.0@gmail.com">E-mail: Engenharia</a>
   <figure>
     <h3>Linkedin</h3>
-    <img src="my_linkedin.png">
+    <img src="my_linkedin.png" alt="QR-Code para meu linkedin">
   </figure>
 </div>
 
