@@ -4,7 +4,7 @@
  <link rel="stylesheet" type="text/css" href="style.css">
 
 ⚠️AVISO EM CONSTRUÇÃO <time>15/07/2021</time>⚙️
-<h4>👋 Hi, I’m <strong>@<b>Fábio D. Sinobre</b><strong>😊</h4>
+<h4>👋 Hi, I’m <strong>@<b> Fábio D. Sinobre</b><strong>😊</h4>
 <hr>
 <p>I’m currently studyng at <b>UNIVESP<b>, the fourth public university in the state of <mark>São Paulo - Brasi</mark>, in the course of computer enginnering. In parallel java language technologies
 
